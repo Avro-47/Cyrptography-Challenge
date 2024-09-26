@@ -13,7 +13,7 @@ try:
 except ImportError:
     imap = map
 
-encoded = binascii.unhexlify('1b37373331363f78151b7f2b783431333d78397828372d363c78373e783a393b3736')
+
 
 Frequency_Table = {
     b'a':  0.08167,
@@ -78,6 +78,8 @@ def guess_single_byte_xor(string):
 
     return winner
 
+TEST_STRING = '1b37373331363f78151b7f2b783431333d78397828372d363c78373e783a393b3736'
+bytestring = binascii.unhexlify(TEST_STRING)
 
-_, outcome, byte = guess_single_byte_xor(encoded)
-print("Decoded string is {}, using byte{}".format(outcome.decode('ascii'), byte))
+_, outcome, byte = guess_single_byte_xor(bytestring)
+print("Decoded string is {}, using byte {}".format(outcome.decode('ascii'), byte))

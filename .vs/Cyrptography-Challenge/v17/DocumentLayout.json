@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge 3.2.0.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Set 1\\Challenge 3.2.0.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Set 1\\Challenge4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge 4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Set 1\\Challenge 4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Challenge4Output||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge4Output||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge3_2_0.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Set 1\\Challenge3_2_0.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge4data||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -26,58 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Challenge 3.2.0.py",
-              "DocumentMoniker": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge 3.2.0.py",
-              "RelativeDocumentMoniker": "Set 1\\Challenge 3.2.0.py",
-              "ToolTip": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge 3.2.0.py",
-              "RelativeToolTip": "Set 1\\Challenge 3.2.0.py",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-09-26T10:02:15.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Challenge4Output",
-              "DocumentMoniker": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Challenge4Output",
-              "RelativeDocumentMoniker": "Challenge4Output",
-              "ToolTip": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Challenge4Output",
-              "RelativeToolTip": "Challenge4Output",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-26T00:49:57.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Challenge 4.py",
-              "DocumentMoniker": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge 4.py",
-              "RelativeDocumentMoniker": "Set 1\\Challenge 4.py",
-              "ToolTip": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge 4.py",
-              "RelativeToolTip": "Set 1\\Challenge 4.py",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Title": "Challenge3_2_0.py",
+              "DocumentMoniker": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge3_2_0.py",
+              "RelativeDocumentMoniker": "Set 1\\Challenge3_2_0.py",
+              "ToolTip": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge3_2_0.py",
+              "RelativeToolTip": "Set 1\\Challenge3_2_0.py",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-26T11:19:55.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Challenge4.py",
+              "DocumentMoniker": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge4.py",
+              "RelativeDocumentMoniker": "Set 1\\Challenge4.py",
+              "ToolTip": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge4.py",
+              "RelativeToolTip": "Set 1\\Challenge4.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-09-20T10:26:46.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Challenge4data",
               "DocumentMoniker": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge4data",
               "RelativeDocumentMoniker": "Set 1\\Challenge4data",
               "ToolTip": "D:\\Code files\\GItRepo\\Cyrptography-Challenge\\Set 1\\Challenge4data",
               "RelativeToolTip": "Set 1\\Challenge4data",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAowEYBAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-20T10:29:18.874Z"
+              "WhenOpened": "2024-09-20T10:29:18.874Z",
+              "EditorCaption": ""
             }
           ]
         }
