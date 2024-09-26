@@ -39,6 +39,7 @@ def English_Test(mystr: str):
     c = Counter(mystr.lower())
     total_characters = len(mystr)
 
+    # This *Should* be the fancy math bs that I keep finding
     coefficient = sum(math.sqrt(Frequency_Table.get(char, 0) * y/total_characters) for char, y in c.items())
     return coefficient
 
@@ -70,8 +71,7 @@ def Xor_Check(encoded: str, number: int):
             #print(OUTPUT)
             OutputData.write(OUTPUT)           
 #TODO                                             
-#Print a space between sets of strings. 
-#verify that it found an actually awnser and has not been all for nought. 
+#Print a space between sets of strings. Still not done, but a reasonable alternative has been implemented.  
 
 OutputData = open(r"Challenge4Output","w")
 
