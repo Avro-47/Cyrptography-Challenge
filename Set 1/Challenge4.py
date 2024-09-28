@@ -1,4 +1,4 @@
-from Challenge3_2_0 import guess_single_byte_xor
+from Define import guess_single_byte_xor
 from binascii import unhexlify
 
 def search(items, value_function):
@@ -36,8 +36,6 @@ with open('D:\Code files\GItRepo\Cyrptography-Challenge\Set 1\Challenge4data', '
     print('String {} \nDecoded into {}, Using Byte {}'.format(input_string.decode('ascii'), outcome.decode('ascii'), byte))
 
 #TODO
-#Stop it from posting the results of Challenge3_2_0 when run, Going to need to change Challenge 3 to acomidate for the improt, 
-#or build the function here. 
 #General bug fix, it is currently return line 71 ( random enough that I believe it is reading and socring them all) 
 # IE its not just taking the last input, nor stoping after the first, 71 is also not a obs fraction of the file for it to have stopped at. 
 #Line 71 is not a line that was flaged during earlier implementation. 
