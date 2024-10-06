@@ -40,4 +40,5 @@ with open('D:\Code files\GItRepo\Cyrptography-Challenge\Set 1\Challenge4data', '
 # IE its not just taking the last input, nor stoping after the first, 71 is also not a obs fraction of the file for it to have stopped at. 
 #Line 71 is not a line that was flaged during earlier implementation. 
 
-#Could be an error in the value of characters in the table?
+#Could be an error in the value of characters in the table | changed that, new values functioned for challenge 3, 
+#returned line 215 with byte 92 for this. Not Correct
